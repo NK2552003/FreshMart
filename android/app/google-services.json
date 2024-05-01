@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337550036206",
+    "project_id": "freshmart-20e17",
+    "storage_bucket": "freshmart-20e17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337550036206:android:9b7ae46cdfceeceb3437ff",
+        "android_client_info": {
+          "package_name": "com.example.freshmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfavdKj0NMztI1vcUA65MmjQgfeias8bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
